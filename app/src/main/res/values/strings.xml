@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="last_match">Last Match</string>
+    <string name="upcoming_match">Teams</string>
+    <string name="saved_match">Saved Match</string>
+    <string name="match_date">match date</string>
+    <string name="home">Home</string>
+    <string name="home_score">0</string>
+    <string name="vs">VS</string>
+    <string name="away_score">0</string>
+    <string name="away">Away</string>
+    <string name="goals">Goals</string>
+    <string name="shoots">Shoots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goal_keeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="midfield">Midfield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtitutes</string>
+    <string name="team_name">Team name</string>
+    <string name="team_field">Team field</string>
+    <string name="team_manager">Team manager</string>
+    <string name="team_overview">Team overview</string>
+    <string name="player_name">Player_name</string>
+    <string name="player_position">Player position</string>
+    <string name="player_birth">Player birth</string>
+    <string name="player_overview">Player Overview</string>
+    <string name="team_birth">team birth</string>
+    <string name="height_m">Height (m)</string>
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="match_time">match time</string>
+
+    <array name="leagueName">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+        <item>Netherlands Eredivisie</item>
+    </array>
+</resources>

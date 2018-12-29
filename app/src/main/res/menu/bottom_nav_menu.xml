@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/lastMatch"
+            android:enabled="true"
+            android:title="@string/last_match"
+            android:icon="@drawable/last_match"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/upMatch"
+            android:enabled="true"
+            android:title="@string/upcoming_match"
+            android:icon="@drawable/upcoming_match"
+            app:showAsAction="ifRoom"/>
+    <item
+            android:id="@+id/favMatch"
+            android:enabled="true"
+            android:icon="@drawable/saved_match"
+            android:title="@string/saved_match"
+            app:showAsAction="ifRoom" />
+</menu>
